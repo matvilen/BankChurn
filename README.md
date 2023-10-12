@@ -11,8 +11,8 @@
   
   <a href="https://nbviewer.org/github/matvilen/BankChurn/blob/main/bank_churn_notebook.ipynb">
     <h3 align="center" >Просмотр Юпитер-ноутбука через nbviewer</h3>
-    <div align="center">Весь проект в одном файле с интерактивным содержанием</div>
   </a>
+  <div align="center">Весь проект в одном файле с интерактивным содержанием</div>
   
   <p align="center">
     <br />
