@@ -1,18 +1,17 @@
 # Рассчет клиентской убыли банка
-Сalculation of bank customer loss
 
 Часть программной подсистемы расчета клиентской убыли, представленная в виде нескольких Юпитер-ноутбуков. На вход подаются характеристики клиентов банка, далее эти данные обрабатываются определенным образом (с помощью моделей машинного обучения и нейронных сетей) и на выходе мы получаем новые данные с указанием вероятности ухода клиентов. Помимо функций предсказания, реализована возможность отслеживания корректности работы моделей по предсказанию ухода клиентов.
 
 ## Содержание
 
-- 1. [Предварительная обработка данных](https://github.com/matvilen/BankChurn/blob/main/bank_churn_notebook.ipynb)
-  - Слияние датасетов
+- [Предварительная обработка данных](https://github.com/matvilen/BankChurn/blob/main/bank_churn_notebook.ipynb)
+    - Слияние датасетов
   - трансформация категориальных переменных
-- 2. [Построение моделей машинного обучения](docs/A1_DA.md)
-- 3. [Построение нейронных сетей](https://github.com/matvilen/BankChurn/blob/main/bank_churn_notebook.ipynb)
-- 4. [Калибровка полученных моделей](https://github.com/matvilen/BankChurn/blob/main/bank_churn_notebook.ipynb)
-- 5. [Результаты работы моделей](docs/A2_MS.md)
-- 6. [Разработка технологии мониторинга](https://github.com/matvilen/BankChurn/blob/main/bank_churn_notebook.ipynb)
+- [Построение моделей машинного обучения](docs/A1_DA.md)
+- [Построение нейронных сетей](https://github.com/matvilen/BankChurn/blob/main/bank_churn_notebook.ipynb)
+- [Калибровка полученных моделей](https://github.com/matvilen/BankChurn/blob/main/bank_churn_notebook.ipynb)
+- [Результаты работы моделей](docs/A2_MS.md)
+- [Разработка технологии мониторинга](https://github.com/matvilen/BankChurn/blob/main/bank_churn_notebook.ipynb)
 
 
 
