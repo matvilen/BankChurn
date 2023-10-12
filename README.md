@@ -7,12 +7,12 @@
 <div align="center">
   <a href="https://nbviewer.org/github/matvilen/BankChurn/blob/main/bank_churn_notebook.ipynb">
     <img src="images/churn_logo.png" alt="Logo" width="180" height="180">
-    <h3 align="center">Просмотр Юпитер-ноутбука через nbviewer</h3>
+  </a>
+  
+  <a href="https://nbviewer.org/github/matvilen/BankChurn/blob/main/bank_churn_notebook.ipynb">
+    <h3 align="center" >Просмотр Юпитер-ноутбука через nbviewer</h3>
     <div align="center">Весь проект в одном файле с интерактивным содержанием</div>
   </a>
-
-  
-  
   
   <p align="center">
     <br />
