@@ -8,23 +8,10 @@
   <a href="https://nbviewer.org/github/matvilen/BankChurn/blob/main/bank_churn_notebook.ipynb">
     <img src="images/churn_logo.png" alt="Logo" width="180" height="180">
   </a>
- <style>
-a:link {
-  background-color: yellow;
+p {
+  font-size: 2rem;
+  text-align: center;
 }
-
-a:visited {
-  background-color: cyan;
-}
-
-a:hover {
-  background-color: lightgreen;
-}
-
-a:active {
-  background-color: hotpink;
-} 
-</style> 
 <p><a href="https://mozilla.org">A link to the Mozilla homepage</a></p>
   ## [Просмотр Юпитер-ноутбука через nbviewer](https://nbviewer.org/github/matvilen/BankChurn/blob/main/bank_churn_notebook.ipynb)
 
