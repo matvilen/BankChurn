@@ -5,14 +5,15 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/matvilen/BankChurn/blob/main/bank_churn_notebook.ipynb">
+  <a href="https://nbviewer.org/github/matvilen/BankChurn/blob/main/bank_churn_notebook.ipynb">
     <img src="images/churn_logo.png" alt="Logo" width="180" height="180">
+    
   </a>
 
   <h3 align="center">Просмотр Юпитер-ноутбука через nbviewer</h3>
-
+  <h2 align="center">Весь проект в одном файле с интерактивным содержанием</h3>h2>
+  
   <p align="center">
-    Весь проект в одном файле с интерактивным содержанием
     <br />
     <a href="https://github.com/matvilen/BankChurn/tree/main/docs"><strong>Изучить графические материалы проекта »</strong></a>
     <br />
