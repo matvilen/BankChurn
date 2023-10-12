@@ -14,7 +14,12 @@
       <a href="https://nbviewer.org/github/matvilen/BankChurn/blob/main/bank_churn_notebook.ipynb">Просмотр Юпитер-ноутбука через nbviewer</a>
     </h3>
   
-  
+  <h3>
+  <a href="http://www.comehike.com/hikes/hiking_group.php?hiking_group_id=53">
+    Milpitas Social Group
+  </a>
+    
+</h3>
   <div align="center">Весь проект в одном файле с интерактивным содержанием</div>
   
   <p align="center">
