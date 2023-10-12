@@ -9,10 +9,9 @@
     <img src="images/churn_logo.png" alt="Logo" width="180" height="180">
   </a>
   
-   <div align="center">Весь проект в одном файле с интерактивным содержанием</div>
-   
   ## [Просмотр Юпитер-ноутбука через nbviewer](https://nbviewer.org/github/matvilen/BankChurn/blob/main/bank_churn_notebook.ipynb)
-
+  <div align="center">Весь проект в одном файле с интерактивным содержанием</div>
+  
   <p align="center">
     <br />
     <a href="https://github.com/matvilen/BankChurn/tree/main/docs"><strong>Изучить графические материалы проекта »</strong></a>
