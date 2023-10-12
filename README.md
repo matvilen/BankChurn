@@ -10,10 +10,9 @@
   </a>
   
    <div align="center">Весь проект в одном файле с интерактивным содержанием</div>
-  ## [Просмотр Юпитер-ноутбука через nbviewer](https://nbviewer.org/github/matvilen/BankChurn/blob/main/bank_churn_notebook.ipynb)
+   
+  ##[Просмотр Юпитер-ноутбука через nbviewer](https://nbviewer.org/github/matvilen/BankChurn/blob/main/bank_churn_notebook.ipynb)
 
- 
-  
   <p align="center">
     <br />
     <a href="https://github.com/matvilen/BankChurn/tree/main/docs"><strong>Изучить графические материалы проекта »</strong></a>
