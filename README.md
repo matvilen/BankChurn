@@ -6,7 +6,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/matvilen/BankChurn/blob/main/bank_churn_notebook.ipynb">
-    <img src="images/churn_logo.png" alt="Logo" width="80" height="80">
+    <img src="images/churn_logo.png" alt="Logo" width="180" height="180">
   </a>
 
   <h3 align="center">Просмотр Юпитер-ноутбука через nbviewer</h3>
@@ -14,7 +14,7 @@
   <p align="center">
     Весь проект в одном файле с интерактивным содержанием
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Изучить графические материалы проекта »</strong></a>
+    <a href="https://github.com/matvilen/BankChurn/tree/main/docs"><strong>Изучить графические материалы проекта »</strong></a>
     <br />
   </p>
 </div>
