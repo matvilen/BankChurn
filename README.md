@@ -6,7 +6,7 @@
 <br />
 <div align="center">
   <a href="https://nbviewer.org/github/matvilen/BankChurn/blob/main/bank_churn_notebook.ipynb">
-    <img src="images/churn_logo.png" alt="Logo" width="180" height="180">
+    <img src="images/churn_logo.png" alt="Logo">
   </a>
   
   ## [Просмотр Юпитер-ноутбука через nbviewer](https://nbviewer.org/github/matvilen/BankChurn/blob/main/bank_churn_notebook.ipynb)
@@ -51,7 +51,7 @@
     - Построение графика мониторинга модели
 
   
-- [Просмотр всего проекта через nbviewer](https://nbviewer.org/github/matvilen/BankChurn/blob/main/bank_churn_notebook.ipynb)
+
 
 
 
