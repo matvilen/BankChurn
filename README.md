@@ -9,14 +9,7 @@
     <img src="images/churn_logo.png" alt="Logo" width="180" height="180">
   </a>
 
-  <div align="center">
-    <style>
-      a {color: black; text-decoration: underline}
-    </style>
-  <a href="https://nbviewer.org/github/matvilen/BankChurn/blob/main/bank_churn_notebook.ipynb">
-    <h3>[Просмотр Юпитер-ноутбука через nbviewer](https://github.com/matvilen/BankChurn/blob/main/bank_churn_notebook.ipynb)</h3>
-  </a>
-  </div>
+  [Просмотр Юпитер-ноутбука через nbviewer](https://github.com/matvilen/BankChurn/blob/main/bank_churn_notebook.ipynb)
 
   <div align="center">Весь проект в одном файле с интерактивным содержанием</div>
   
