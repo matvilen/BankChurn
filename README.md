@@ -10,8 +10,9 @@
   </a>
   
   <a href="https://nbviewer.org/github/matvilen/BankChurn/blob/main/bank_churn_notebook.ipynb">
-    <h3 align="center" >Просмотр Юпитер-ноутбука через nbviewer</h3>
+    <h3 id="https://nbviewer.org/github/matvilen/BankChurn/blob/main/bank_churn_notebook.ipynb" align="center" >Просмотр Юпитер-ноутбука через nbviewer</h3>
   </a>
+  
   <div align="center">Весь проект в одном файле с интерактивным содержанием</div>
   
   <p align="center">
