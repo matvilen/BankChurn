@@ -9,7 +9,7 @@
     <img src="images/churn_logo.png" alt="Logo" width="180" height="180">
   </a>
   
-  <h3 align="center">
+  <h3 align="center" style="{color: black; text-decoration: underline}">
   <a href="https://nbviewer.org/github/matvilen/BankChurn/blob/main/bank_churn_notebook.ipynb">
     Просмотр Юпитер-ноутбука через nbviewer
   </a>
