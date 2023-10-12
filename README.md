@@ -14,7 +14,7 @@
       a {color: black; text-decoration: underline}
     </style>
   <a href="https://nbviewer.org/github/matvilen/BankChurn/blob/main/bank_churn_notebook.ipynb">
-    <h3>Просмотр Юпитер-ноутбука через nbviewer</h3>
+    <h3>[Просмотр Юпитер-ноутбука через nbviewer](https://github.com/matvilen/BankChurn/blob/main/bank_churn_notebook.ipynb)</h3>
   </a>
   </div>
 
