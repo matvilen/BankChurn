@@ -2,6 +2,23 @@
 
 Часть программной подсистемы расчета клиентской убыли, представленная в виде нескольких Юпитер-ноутбуков. На вход подаются характеристики клиентов банка, далее эти данные обрабатываются определенным образом (с помощью моделей машинного обучения и нейронных сетей) и на выходе мы получаем новые данные с указанием вероятности ухода клиентов. Помимо функций предсказания, реализована возможность отслеживания корректности работы моделей по предсказанию ухода клиентов.
 
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <a href="https://github.com/matvilen/BankChurn/blob/main/bank_churn_notebook.ipynb">
+    <img src="images/churn_logo.png" alt="Logo" width="80" height="80">
+  </a>
+
+  <h3 align="center">Просмотр Юпитер-ноутбука через nbviewer</h3>
+
+  <p align="center">
+    Весь проект в одном файле с интерактивным содержанием
+    <br />
+    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Изучить графические материалы проекта »</strong></a>
+    <br />
+  </p>
+</div>
+
 ## Содержание
 
 - [Предварительная обработка данных](https://github.com/matvilen/BankChurn/blob/main/bank_churn_notebook.ipynb)
@@ -32,8 +49,9 @@
 - [Разработка технологии мониторинга](https://github.com/matvilen/BankChurn/blob/main/bank_churn_notebook.ipynb)
     - Искусственное создание ситуации постепенного ухудшения показателей модели
     - Построение графика мониторинга модели
+
   
-- [Просмотр всего проекта через nbviewer](https://github.com/matvilen/BankChurn/blob/main/bank_churn_notebook.ipynb)
+- [Просмотр всего проекта через nbviewer](https://nbviewer.org/github/matvilen/BankChurn/blob/main/bank_churn_notebook.ipynb)
 
 
 
