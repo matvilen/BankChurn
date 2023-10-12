@@ -10,11 +10,9 @@
   </a>
 
   <div align="center" style="{color: black; text-decoration: underline}">
-  <h3>
   <a href="https://nbviewer.org/github/matvilen/BankChurn/blob/main/bank_churn_notebook.ipynb">
     Просмотр Юпитер-ноутбука через nbviewer
   </a>
-</h3>
   </div>
 
   <div align="center">Весь проект в одном файле с интерактивным содержанием</div>
