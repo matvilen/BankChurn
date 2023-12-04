@@ -35,7 +35,7 @@
     - XGB forest
     - LogRegression
     - Построение графика AUC-кривой
-- [Построение нейронных сетей](https://github.com/matvilen/BankChurn/blob/main/bank_churn_notebook.ipynb)
+- [Построение нейронных сетей](https://github.com/matvilen/BankChurn/blob/main/3_construction_of_neural_networks.ipynb)
     - Построение сетей с использованием Sigmoid, Relu и различного количества слоев и нейронов в них
     - Построение графиков LOSS, AUC и ACCURACY кривых для выбора наилучшей модели сети
 - [Калибровка полученных моделей](https://github.com/matvilen/BankChurn/blob/main/bank_churn_notebook.ipynb)
