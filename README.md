@@ -21,7 +21,7 @@
 
 ## Содержание
 
-- [Предварительная обработка данных](https://github.com/matvilen/BankChurn/blob/main/bank_churn_notebook.ipynb)
+- [Предварительная обработка данных](https://github.com/matvilen/BankChurn/blob/main/1_data_preprocessing.ipynb)
     - Слияние датасетов
     - Трансформация категориальных переменных
     - Отсечение линейнозависимых признаков
