@@ -29,7 +29,7 @@
     - Нормализация данных
     - Удаление выбросов
     - Разбиение выборки на обучающую, тестовую и валидационную
-- [Построение моделей машинного обучения](docs/A1_DA.md)
+- [Построение моделей машинного обучения](https://github.com/matvilen/BankChurn/blob/main/2_building_ml_models.ipynb)
     - XGB booster
     - LGBM booster
     - XGB forest
