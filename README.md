@@ -38,10 +38,10 @@
 - [Построение нейронных сетей](https://github.com/matvilen/BankChurn/blob/main/3_construction_of_neural_networks.ipynb)
     - Построение сетей с использованием Sigmoid, Relu и различного количества слоев и нейронов в них
     - Построение графиков LOSS, AUC и ACCURACY кривых для выбора наилучшей модели сети
-- [Калибровка полученных моделей](https://nbviewer.org/github/matvilen/BankChurn/blob/main/bank_churn_notebook.ipynb)
+- [Калибровка полученных моделей](https://github.com/matvilen/BankChurn/blob/main/4_calibration_of_models.ipynb)
     - Калибровка моделей методом Плата
-    - Калибровка моделей с применением стратифицированной кросс-валидации
     - Построение кривых надежности для неоткалиброванных и откалиброванных моделей
+    - Калибровка классических моделей с применением стратифицированной кросс-валидации
 - [Результаты работы моделей](https://nbviewer.org/github/matvilen/BankChurn/blob/main/bank_churn_notebook.ipynb)
     - Построение графика значимости характеристик (метод Light GBM) 
     - Построение графиков зависимости предсказания модели от значений признаков
